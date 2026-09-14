@@ -1,0 +1,4 @@
+interface:
+  display_name: "Codebase Orientation"
+  short_description: "Read a codebase and explain it with file and function evidence"
+  default_prompt: "Use $read-project to explain this project before making changes."
